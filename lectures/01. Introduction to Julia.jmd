@@ -179,7 +179,7 @@ in Julia itself** (unlike Python).
     ```julia
     """Calculate area of circle of radius `r`."""
     function area(r)
-        A = π * r^2    function
+        A = π * r^2
         return A
     end
 
